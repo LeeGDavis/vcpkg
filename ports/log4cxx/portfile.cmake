@@ -1,7 +1,7 @@
 
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
-    REPO stephen-webb/logging-log4cxx
+    REPO LeeGDavis/logging-log4cxx
     REF master
     SHA512 0fbe9a94ed700817e5e1751a4945e25e1a253a4ec65dbaf005cb7806c224122fcd2ca4f772a03a07884a595fc161b4a125251256eac020804404a1a541b80aec
     HEAD_REF master
