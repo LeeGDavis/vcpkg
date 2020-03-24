@@ -2,8 +2,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO stephen-webb/logging-log4cxx
-    REF master
-    SHA512 5cc4d8b8b8d43c7753b2c57c8f3f97bfef98b1ded353dc9ac1185b4ff64e2d01869f68bcfb32123282e49015488526b045f716f59bb71de3e6b0c78c3cb1b216
+    REF 71092038f9d79d78c4c230e63e219d512e314f13
+    SHA512 344c3d10f2afe4e147d67fcee01c2a04fcd5f321b6260cfeebc72b0d8d2234cb81e0ccfe72906dcf718cea8a120c35010d2e503fa8aec53d3d7e95d091c8c432
     HEAD_REF master
 )
 
